@@ -2,10 +2,6 @@
 
 This is my solution to the [Testimonials Grid Section Challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) on Frontend Mentor.
 
-## 📸 Screenshot
-
-![Preview of the Testimonials Grid](./preview.jpg)
-
 ## 🌐 Live Site
 
 - Live URL: *[Add your live site URL here, e.g. GitHub Pages or Netlify]*
